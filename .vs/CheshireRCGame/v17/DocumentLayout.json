@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joosg\\Choi\\CheshireRCGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD042453-80C3-5B06-FD94-6D1C535960A3}|Assembly-CSharp.csproj|c:\\users\\joosg\\choi\\cheshirercgame\\assets\\raspberry\\server.py.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD042453-80C3-5B06-FD94-6D1C535960A3}|Assembly-CSharp.csproj|solutionrelative:assets\\raspberry\\server.py.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD042453-80C3-5B06-FD94-6D1C535960A3}|Assembly-CSharp.csproj|c:\\users\\joosg\\choi\\cheshirercgame\\assets\\videostreamreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD042453-80C3-5B06-FD94-6D1C535960A3}|Assembly-CSharp.csproj|solutionrelative:assets\\videostreamreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.py.cs",
+              "DocumentMoniker": "C:\\Users\\joosg\\Choi\\CheshireRCGame\\Assets\\Raspberry\\Server.py.cs",
+              "RelativeDocumentMoniker": "Assets\\Raspberry\\Server.py.cs",
+              "ToolTip": "C:\\Users\\joosg\\Choi\\CheshireRCGame\\Assets\\Raspberry\\Server.py.cs",
+              "RelativeToolTip": "Assets\\Raspberry\\Server.py.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:03:30.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideoStreamReceiver.cs",
+              "DocumentMoniker": "C:\\Users\\joosg\\Choi\\CheshireRCGame\\Assets\\VideoStreamReceiver.cs",
+              "RelativeDocumentMoniker": "Assets\\VideoStreamReceiver.cs",
+              "ToolTip": "C:\\Users\\joosg\\Choi\\CheshireRCGame\\Assets\\VideoStreamReceiver.cs",
+              "RelativeToolTip": "Assets\\VideoStreamReceiver.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAMwE8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:53:39.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
