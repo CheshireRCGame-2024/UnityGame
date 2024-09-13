@@ -5,5 +5,9 @@
 *.unity  text eol=lf
 *.mat    text eol=lf
 
+*.asset  text eol=lf
+*.cs     text eol=crlf
+
+
 # General settings
 * text=auto

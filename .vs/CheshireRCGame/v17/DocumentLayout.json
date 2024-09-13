@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\joosg\\Choi\\CheshireRCGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD042453-80C3-5B06-FD94-6D1C535960A3}|Assembly-CSharp.csproj|c:\\users\\joosg\\choi\\cheshirercgame\\assets\\raspberry\\server.py.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD042453-80C3-5B06-FD94-6D1C535960A3}|Assembly-CSharp.csproj|solutionrelative:assets\\raspberry\\server.py.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joosg\\Choi\\CheshireRCGame\\Assets\\Plugins\\Android\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Plugins\\Android\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD042453-80C3-5B06-FD94-6D1C535960A3}|Assembly-CSharp.csproj|c:\\users\\joosg\\choi\\cheshirercgame\\assets\\videostreamreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joosg\\Choi\\CheshireRCGame\\Library\\PackageCache\\com.unity.xr.arcore@5.1.5\\Editor\\ARCoreBuildProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.arcore@5.1.5\\Editor\\ARCoreBuildProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD042453-80C3-5B06-FD94-6D1C535960A3}|Assembly-CSharp.csproj|C:\\Users\\joosg\\Choi\\CheshireRCGame\\assets\\videostreamreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD042453-80C3-5B06-FD94-6D1C535960A3}|Assembly-CSharp.csproj|solutionrelative:assets\\videostreamreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,28 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Server.py.cs",
-              "DocumentMoniker": "C:\\Users\\joosg\\Choi\\CheshireRCGame\\Assets\\Raspberry\\Server.py.cs",
-              "RelativeDocumentMoniker": "Assets\\Raspberry\\Server.py.cs",
-              "ToolTip": "C:\\Users\\joosg\\Choi\\CheshireRCGame\\Assets\\Raspberry\\Server.py.cs",
-              "RelativeToolTip": "Assets\\Raspberry\\Server.py.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAcwDcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T14:03:30.91Z",
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\joosg\\Choi\\CheshireRCGame\\Assets\\Plugins\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\joosg\\Choi\\CheshireRCGame\\Assets\\Plugins\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Assets\\Plugins\\Android\\AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-13T10:55:38.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ARCoreBuildProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\joosg\\Choi\\CheshireRCGame\\Library\\PackageCache\\com.unity.xr.arcore@5.1.5\\Editor\\ARCoreBuildProcessor.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.arcore@5.1.5\\Editor\\ARCoreBuildProcessor.cs",
+              "ToolTip": "C:\\Users\\joosg\\Choi\\CheshireRCGame\\Library\\PackageCache\\com.unity.xr.arcore@5.1.5\\Editor\\ARCoreBuildProcessor.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.arcore@5.1.5\\Editor\\ARCoreBuildProcessor.cs",
+              "ViewState": "AQIAABsAAAAAzczMzMwawJYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:54:43.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "VideoStreamReceiver.cs",
               "DocumentMoniker": "C:\\Users\\joosg\\Choi\\CheshireRCGame\\Assets\\VideoStreamReceiver.cs",
               "RelativeDocumentMoniker": "Assets\\VideoStreamReceiver.cs",
               "ToolTip": "C:\\Users\\joosg\\Choi\\CheshireRCGame\\Assets\\VideoStreamReceiver.cs",
               "RelativeToolTip": "Assets\\VideoStreamReceiver.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAMwE8AAABFAAAA",
+              "ViewState": "AQIAADkAAACAmZmZmZkRwBQAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T12:53:39.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T12:53:39.47Z"
             }
           ]
         }
