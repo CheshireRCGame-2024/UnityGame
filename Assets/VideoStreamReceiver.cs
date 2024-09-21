@@ -18,7 +18,7 @@ public class VideoStreamReceiver : MonoBehaviour
     void Start()
     {
         // TCP 클라이언트 설정
-        client = new TcpClient("192.168.137.215", 5000); // Raspberry Pi의 IP 주소와 포트
+        client = new TcpClient("192.168.137.150", 5000); // Raspberry Pi의 IP 주소와 포트
         stream = client.GetStream();
 
         // 비디오 출력용 텍스처 설정
