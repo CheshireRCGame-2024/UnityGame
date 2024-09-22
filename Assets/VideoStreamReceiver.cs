@@ -1,9 +1,15 @@
+using System.Collections;  // IEnumerator를 사용하기 위한 네임스페이스 추가
 using System;
 using System.Net.Sockets;
 using System.Threading;
 using UnityEngine;
 using System.IO;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
+/* 
+// 기존 내용
+
+
 
 public class VideoStreamReceiver : MonoBehaviour
 {
@@ -92,5 +98,25 @@ public class VideoStreamReceiver : MonoBehaviour
         }
         stream.Close();
         client.Close();
+    }
+}
+
+*/
+
+// 3초 후에 ScoreScene으로 이동하는 로직
+
+public class VideoStreamReceiver : MonoBehaviour
+{
+    void Start()
+    {
+        int score = 80; // 점수 선언
+        PlayerPrefs.SetInt("playerScore", score); // 점수를 PlayerPrefs에 저장
+        StartCoroutine(GoToScoreSceneAfterDelay());
+    }
+
+    IEnumerator GoToScoreSceneAfterDelay()
+    {
+        yield return new WaitForSeconds(3f); // 3초 대기
+        SceneManager.LoadScene("ScoreScene"); // ScoreScene으로 전환
     }
 }
